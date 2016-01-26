@@ -1,0 +1,11 @@
+6ccd73af4914547601886b0fd962ae85 *DESCRIPTION
+66540d4224f817dcf7dd9280bc1eb4ce *NAMESPACE
+14b91a500401d24b9de3fd987ebec5c4 *R/steiniv.R
+d41d8cd98f00b204e9800998ecf8427e *R/tr.R
+e238ba936a258c3741c8288928261ddd *man/jive.est.Rd
+edac9f7d956717240e12175bf1518a34 *man/jive.internal.Rd
+6cac751bff180933c0c404e39efff1a8 *man/ols.est.Rd
+00f4e80cb15bce0e666c87feba90f317 *man/sps.est.Rd
+cec04e1529e020584e71913fafd271bf *man/sps.internal.Rd
+42ef080fe86f94c14f86420dac30011e *man/tr.Rd
+2ed3b78867636f071b05065ecb80bde8 *man/tsls.est.Rd

@@ -1,0 +1,7 @@
+# Export all names:
+exportPattern(".")
+
+### These are solely required, if using source codes:
+#useDynLib(SteinIV)
+#exportPattern("^[[:alpha:]]+")
+
